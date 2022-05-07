@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<!--    TODO 2 CREATE THIS LAYOUT WHICH REPRESENT A SINGLE ITEM IN THE LIST-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="item1"
+        android:id="@+id/textitem"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:layout_margin="6dp"
+        android:background="#FFF8BA"
+        />
+
+</LinearLayout>
